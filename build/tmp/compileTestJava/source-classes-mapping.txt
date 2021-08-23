@@ -1,2 +1,4 @@
 testsscheduler/TestSrart.java
  testsscheduler.TestSrart
+testsscheduler/LaunchAppTest.java
+ testsscheduler.LaunchAppTest
