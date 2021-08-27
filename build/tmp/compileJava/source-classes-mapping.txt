@@ -2,5 +2,11 @@ config/ConfigScheduler.java
  config.ConfigScheduler
 pagesscheduler/SplashScreen.java
  pagesscheduler.SplashScreen
+pagesscheduler/WizardScreen.java
+ pagesscheduler.WizardScreen
 pagesscheduler/BaseScreen.java
  pagesscheduler.BaseScreen
+pagesscheduler/LoginScreen.java
+ pagesscheduler.LoginScreen
+pagesscheduler/HomeScreen.java
+ pagesscheduler.HomeScreen
