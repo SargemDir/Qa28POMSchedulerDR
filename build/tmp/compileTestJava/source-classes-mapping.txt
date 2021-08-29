@@ -1,6 +1,10 @@
-testsscheduler/TestStart.java
- testsscheduler.TestStart
 testsscheduler/LaunchAppTest.java
  testsscheduler.LaunchAppTest
+testsscheduler/LoginDataProvider.java
+ testsscheduler.LoginDataProvider
+testsscheduler/TestStart.java
+ testsscheduler.TestStart
+testsscheduler/EventCreateTest.java
+ testsscheduler.EventCreateTest
 testsscheduler/LoginTest.java
  testsscheduler.LoginTest

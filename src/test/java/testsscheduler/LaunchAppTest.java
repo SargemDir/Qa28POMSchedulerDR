@@ -1,11 +1,11 @@
 package testsscheduler;
 
-import config.ConfigScheduler;
+import config.ConfigSchedulerAndr8Ver003;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pagesscheduler.SplashScreen;
 
-public class LaunchAppTest extends ConfigScheduler {
+public class LaunchAppTest extends ConfigSchedulerAndr8Ver003 {
 
     @Test
     public void launchtest(){

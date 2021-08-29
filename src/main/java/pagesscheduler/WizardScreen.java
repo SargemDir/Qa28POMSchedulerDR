@@ -11,6 +11,7 @@ public class WizardScreen extends BaseScreen {
 
     @FindBy(xpath = "//*[@recource-id = 'com.example.svetlana.scheduler:id/wizard_settings_skip_container']")
     MobileElement skipButton;
+    
 
     public HomeScreen skipWizard() {
         try {
