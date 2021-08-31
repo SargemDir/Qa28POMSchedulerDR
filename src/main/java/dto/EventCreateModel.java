@@ -7,22 +7,30 @@ public class EventCreateModel {
     int wageEC;
 
     public EventCreateModel withTitelEC(String titelEC) {
-        this.titelEC = titelEC;
+        if (titelEC != null) {
+            this.titelEC = titelEC;
+        }
         return this;
     }
 
     public EventCreateModel withTypeEC(String typeEC) {
-        this.typeEC = typeEC;
+        if (typeEC != null) {
+            this.typeEC = typeEC;
+        }
         return this;
     }
 
     public EventCreateModel withBreakEC(int breakEC) {
-        this.breakEC = breakEC;
+        if (breakEC > 0 && breakEC <= 4) {
+            this.breakEC = breakEC;
+        }
         return this;
     }
 
     public EventCreateModel withWageEC(int wageEC) {
-        this.wageEC = wageEC;
+        if (wageEC >= 0) {
+            this.wageEC = wageEC;
+        }
         return this;
     }
 

@@ -31,7 +31,7 @@ public class EditCreateEventScreen extends BaseScreen {
         type(title, evcrm.getTitelEC());
         type(type, evcrm.getTypeEC());
         hideKeyboard();
-        if (evcrm.getBreakEC()>0){
+        if (evcrm.getBreakEC()>0 && evcrm.getBreakEC()<=4){
             for (int i = 0; i < evcrm.getBreakEC(); i++){
                 breakPlusButton.click();
             }

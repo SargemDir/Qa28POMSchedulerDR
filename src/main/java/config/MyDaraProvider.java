@@ -14,7 +14,6 @@ public class MyDaraProvider {
         list.add(new Object[]{"noa@gmail.com","Nnoa12345$"});
         list.add(new Object[]{"sonya@gmail.com","Ss12345$"});
         list.add(new Object[]{"noa@gmail.com","Nnoa12345$"});
-
         return list.iterator();
     }
 }
