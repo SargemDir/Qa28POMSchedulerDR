@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="advancedtests.TestSwipeableBasic" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-01T20:25:35" hostname="WIN-VLIAFR1P8UG" time="5.458">
+  <properties/>
+  <testcase name="swipeLeft" classname="advancedtests.TestSwipeableBasic" time="5.458"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

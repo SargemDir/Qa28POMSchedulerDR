@@ -5,19 +5,31 @@ dto/AuthTest.java
 dto/AuthdtoLombok.java
  dto.AuthdtoLombok
  dto.AuthdtoLombok$AuthdtoLombokBuilder
-config/MyDaraProvider.java
- config.MyDaraProvider
 config/ConfigSchedulerAndr8Ver003.java
  config.ConfigSchedulerAndr8Ver003
-dto/EventCreateModel.java
- dto.EventCreateModel
+config/MyDaraProvider.java
+ config.MyDaraProvider
 pagesscheduler/SplashScreen.java
  pagesscheduler.SplashScreen
+config/ConfigAdvanced.java
+ config.ConfigAdvanced
 pagesscheduler/WizardScreen.java
  pagesscheduler.WizardScreen
 pagesscheduler/EditCreateEventScreen.java
  pagesscheduler.EditCreateEventScreen
+dto/EventCreateModel.java
+ dto.EventCreateModel
 pagesscheduler/LoginScreen.java
  pagesscheduler.LoginScreen
 pagesscheduler/HomeScreen.java
  pagesscheduler.HomeScreen
+pagesadvanced/DraggableBasicScreen12.java
+ pagesadvanced.DraggableBasicScreen12
+pagesadvanced/BaseScreenADV.java
+ pagesadvanced.BaseScreenADV
+pagesadvanced/SwipeScreen2.java
+ pagesadvanced.SwipeScreen2
+pagesadvanced/SwipeableBasicScreen22.java
+ pagesadvanced.SwipeableBasicScreen22
+pagesadvanced/DragScreen1.java
+ pagesadvanced.DragScreen1
